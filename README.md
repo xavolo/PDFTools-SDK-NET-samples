@@ -2,7 +2,7 @@
 ## Atención
 Este código fuente ya tiene credenciales para ejecución de pruebas. Por lo que se puede descargar la solución completa sin necesidad de proseguir con los indicado en el apartado "Authentication Setup".
 
-
+## Description
 This sample solution helps you get started with the PDF Tools .NET SDK.
 
 The sample projects illustrate how to perform PDF-related actions (such as converting to and from the PDF format) using the PDF Tools .NET SDK. **Please note that the PDF Tools .NET SDK supports only server side use cases**.
